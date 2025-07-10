@@ -1,3 +1,24 @@
+bibtex
+
+@software{khadijeh_2024_13735908,
+  author       = {Khadijeh, Mahmoud and
+                  Varveri, Aikaterini and
+                  Kasbergen, Cor and
+                  Erkens, Sandra},
+  title        = {{Prony Series Fit for Viscoelastic Data Using a 
+                   Genetic Algorithm}},
+  month        = sep,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {V1.0.0},
+  doi          = {10.5281/zenodo.13735908},
+  url          = {https://doi.org/10.5281/zenodo.13735908}
+}
+
+
+
+
+
 # Physics-Informed Neural Network (PINN) with Gaussian Process for Coupled PDE System
 
 This repository contains a comprehensive implementation of a Physics-Informed Neural Network (PINN) enhanced with Gaussian Process (GP) regression for solving a coupled system of partial differential equations (PDEs) representing heat transfer, oxygen pressure dynamics, and carbonyl area evolution.
