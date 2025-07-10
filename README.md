@@ -19,6 +19,7 @@ bibtex
 
 
 
+
 # Physics-Informed Neural Network (PINN) with Gaussian Process for Coupled PDE System
 
 This repository contains a comprehensive implementation of a Physics-Informed Neural Network (PINN) enhanced with Gaussian Process (GP) regression for solving a coupled system of partial differential equations (PDEs) representing heat transfer, oxygen pressure dynamics, and carbonyl area evolution.
