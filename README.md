@@ -1,19 +1,16 @@
-bibtex
-
-@software{khadijeh_2024_13735908,
-  author       = {Khadijeh, Mahmoud and
-                  Varveri, Aikaterini and
-                  Kasbergen, Cor and
-                  Erkens, Sandra},
-  title        = {{Prony Series Fit for Viscoelastic Data Using a 
-                   Genetic Algorithm}},
-  month        = sep,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {V1.0.0},
-  doi          = {10.5281/zenodo.13735908},
-  url          = {https://doi.org/10.5281/zenodo.13735908}
-}
+# To cite:
+```Article
+@article{KHADIJEH2025117462,
+title = {Exploring the roles of numerical simulations and machine learning in multiscale paving materials analysis: Applications, challenges, best practices},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117462},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117462},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007175},
+author = {Mahmoud Khadijeh and Cor Kasbergen and Sandra Erkens and Aikaterini Varveri},
+```
 
 
 
