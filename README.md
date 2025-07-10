@@ -1,15 +1,14 @@
 # To cite:
 ```Article
-@article{KHADIJEH2025117462,
-title = {Exploring the roles of numerical simulations and machine learning in multiscale paving materials analysis: Applications, challenges, best practices},
-journal = {Computer Methods in Applied Mechanics and Engineering},
-volume = {433},
-pages = {117462},
-year = {2025},
-issn = {0045-7825},
-doi = {https://doi.org/10.1016/j.cma.2024.117462},
-url = {https://www.sciencedirect.com/science/article/pii/S0045782524007175},
-author = {Mahmoud Khadijeh and Cor Kasbergen and Sandra Erkens and Aikaterini Varveri},
+@article{khadijeh2025multistage,
+  title={Multistage physics informed neural network for solving coupled multiphysics problems in material degradation and fluid dynamics},
+  author={Khadijeh, Mahmoud and Cerqueglini, Veronica and Kasbergen, Cor and Erkens, Sandra and Varveri, Aikaterini},
+  journal={Engineering with Computers},
+  pages={1--31},
+  year={2025},
+  publisher={Springer},
+  doi ={doi.org/10.1007/s00366-025-02174-4}
+}
 ```
 
 
